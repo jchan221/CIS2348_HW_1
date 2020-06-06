@@ -22,7 +22,3 @@ print(('{:.2f}'.format(lemon * new_measure / 16)),'gallon(s) lemon juice')
 print(('{:.2f}'.format(water * new_measure / 16)),'gallon(s) water')
 print(('{:.2f}'.format(agave * new_measure / 16)),'gallon(s) agave nectar')
 # Recipe will be converted from cups to gallons
-
-
-
-
