@@ -19,13 +19,3 @@ if current_day == birth_day and current_month == birth_month:
     print('Happy Birthday!')
     print('You are', user_age, 'years old.')
 # Above will check if the current date is the user's birthday
-
-
-
-
-
-
-
-
-
-
